@@ -1,6 +1,6 @@
 ---
 title: Configuring software RAID on Windows
-slug: dedicated-raid-soft-windows
+slug: dedicated-servers-raid-soft-windows
 excerpt: "Find out how to configure your server’s RAID after a disk replacement"
 section: RAID and disks
 ---
